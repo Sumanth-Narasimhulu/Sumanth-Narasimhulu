@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumanth Narasimha</h1>
 
-<h3 align="center">Software Engineer • Java & Spring Boot • Building scalable microservices</h3>
+<h3 align="center">Backend Engineer • Java & Spring Boot • Building scalable microservices</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Low-Level+Design+%26+Design+Patterns;DSA+Problem+Solver" alt="Typing SVG" />
@@ -24,8 +24,8 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Tools**
@@ -56,28 +56,7 @@
 
 ---
 
-### 💡 What I'm Good At
 
-```java
-public class Sumanth {
-
-    String[] coreStrengths = {
-        "Java", "Spring Boot", "Microservices", "REST APIs (OpenAPI)"
-    };
-
-    String[] foundations = {
-        "OOP", "Design Patterns", "Low-Level Design", "DSA"
-    };
-
-    String[] databases = {
-        "PostgreSQL", "SQL"
-    };
-
-    String currentlyLearning = "System Design & scalable architectures";
-
-    String motto = "Clean code, solid design, one commit at a time.";
-}
-```
 
 ---
 
@@ -89,7 +68,7 @@ public class Sumanth {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth-Narasimhulu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sumanth-Narasimhulu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -110,7 +89,6 @@ public class Sumanth {
   <a href="https://leetcode.com/u/SumanthNarasimha/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  
   <a href="mailto:mamillapallisumanth8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
